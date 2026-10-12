@@ -1,0 +1,11 @@
+{
+  "schema_version": 2,
+  "application": "2.18.0",
+  "resource": "20006100",
+  "tag": "ourstream-61-v2",
+  "manifest_url": "https://github.com/1498zl-coder/SCSPOurStreamData/releases/download/ourstream-61-v2/mirror.json",
+  "manifest_sha256": "53496e89736ea556e7d9742d3375e037ad5c63d6d9d737322330b53db2827248",
+  "files": 43666,
+  "packs": 61,
+  "package_bytes": 5529622621
+}
