@@ -1,0 +1,14 @@
+{
+  "schema_version": 2,
+  "application": "2.18.0",
+  "resource": "20006100",
+  "tag": "20006100",
+  "manifest_url": "https://github.com/1498zl-coder/SCSPOurStreamData/releases/download/20006100/mirror.json",
+  "manifest_sha256": "5f85f0d9fe135241c6694ad3b6a7b5cd412264239abb2f48ae1044f5cb2e33e9",
+  "files": 43666,
+  "packs": 61,
+  "package_bytes": 5529622621,
+  "new_packages": 61,
+  "new_package_bytes": 5529622621,
+  "payload_bytes": null
+}
